@@ -9,3 +9,6 @@ review on the current methodology and references to papers on sentiment analysis
 #### Advantage: 
 #### Disadvantage: 
 * didn't consider intensity of words
+
+### GI (content analysis)
+* 
